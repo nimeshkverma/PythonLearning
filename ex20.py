@@ -18,6 +18,7 @@ print_all(current_file)
 
 print "Now lets revind"
 rewind(current_file)
+
 print "Lets Print three lines"
 current_line = 1
 print_a_line(current_line,current_file)
